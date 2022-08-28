@@ -1,0 +1,164 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+body {
+font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+}
+
+
+
+
+
+#top-banner {
+  background-image: url(./img/main.png);
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.main-subjet {
+  padding-top: 100px;
+  color: #FFFFFF;
+}
+
+.main-subjet2 {
+  padding-top: 30px;
+  color: #FFFFFF;
+}
+
+.reservation {
+margin-top: 100px;
+color: #FFFFFF;
+width: 230px;
+height: 60px;
+}
+
+#story {
+  background-image: url(./img/2bg.png);
+  min-height: 100vh;
+  background-size: cover;
+}
+
+
+.center-t {
+  text-align: center;
+  padding-top: 50px;
+  color: #FFD644;
+}
+
+.center-align {
+  text-align: center;
+  margin: auto;
+}
+
+.storyvideo {
+  width: 40%;
+  /* height: ; */
+}
+
+
+
+.charimg {
+  width: 70%;
+  margin-top: 1%;
+}
+
+.charimg2 {
+  margin-top: 3%;
+  margin-bottom: 3%
+}
+
+
+.description {
+ width: 20rem;
+ height: 8rem;
+ left: 690px;
+ top: 100px;
+ background-color: #000000;
+ margin-top: 80px;
+}
+
+
+.story2 {
+  color: #FFF2C0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#char {
+  background-color: black;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+
+#event {
+  background-image: url(./img/pubg4.png);
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.event1 {
+  color: #ffffff;
+  margin-top: 2%
+}
+
+.event2 {
+  color: #FF0000;
+}
+
+.event3 {
+  margin-top: 2%
+}
+
+.event4 {
+  width: 42%
+}
+
+.event5 {
+  padding-top: 1%;
+  padding-left: 29%;
+
+  text-align: left;
+}
+
+.last-align {
+  text-align: left;
+  margin: auto;
+}
+
+#mission {
+  background-image: url(./img/pubg5.png);
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.mission1 {
+  color: #ffffff;
+  margin-top: 5%
+}
+
+.mission2 {
+  color : #FF0000;
+}
+
+.mission3 {
+  margin-top: 5%;
+}
+
+
+
+
+#footer {
+  background-image: url(./img/pubg6.png);
+  height: 250px;
+  font-color: #ffffff;
+}
+
+.footer1 {
+  color: #FFFFFF;
+  margin-top: 3%;
+}
+
+.footer2 {
+  width: 20%;
+  margin-top: 3%;
+}
